@@ -50,7 +50,11 @@ Edit
 java -cp src Main
 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/f6f6edce-3776-4dda-99f1-22bf78f12590)
-
+![image](https://github.com/user-attachments/assets/796e4bee-ffe0-4304-ba30-c90f802c576f)
+![image](https://github.com/user-attachments/assets/d2bf6b20-b8d1-4b30-aaa0-ca001b12ce5e)
+![image](https://github.com/user-attachments/assets/5e898163-c470-43a8-9dc2-1ae1143d41d3)
+![image](https://github.com/user-attachments/assets/24a557df-840c-4579-af8c-165436f72a51)
+![image](https://github.com/user-attachments/assets/7c3929ff-b390-43a1-bf57-7a08e968c278)
 Include screenshots here to showcase the game's interface and features.
 
 📝 Notes
