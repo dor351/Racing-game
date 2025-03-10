@@ -1,11 +1,3 @@
-/*
- * Dor Yehoshua 315619098
- * Hadar Isaacson 209831262
- */
-
-/**
- * 
- */
 package utilities;
 
 import java.lang.reflect.InvocationTargetException;

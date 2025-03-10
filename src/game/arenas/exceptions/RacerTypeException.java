@@ -1,12 +1,3 @@
-/*
- * Dor Yehoshua 315619098
- * Hadar Isaacson 209831262
- */
-
-/**
-*The RacerTypeException class represents an exception that is thrown when an invalid racer type is encountered.
-*This exception extends the Exception class.
-*/
 
 package game.arenas.exceptions;
 @SuppressWarnings("serial")

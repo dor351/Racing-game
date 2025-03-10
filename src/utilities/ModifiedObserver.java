@@ -1,8 +1,3 @@
-/*
- * Dor Yehoshua 315619098
- * Hadar Isaacson 209831262
- */
-
 package utilities;
 /**
  * The interface defining the contract for a modified observer.
